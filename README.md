@@ -14,7 +14,10 @@ Your json artwork objects should have relevant information from the creators and
 ## Completion and Submission
 
 Completed work should include all code to arrive at the solution, plus all code, assets, and resources required to run the solution.
+Please describe your approach to this problem in a few sentences. Were there any alternatives that you considered?
 
 PLEASE INCLUDE a detailed README containing requirements and instructions for running the project locally.
+
+Please INCLUDE a requirements file with all the dependcies required to run the code to generate the json files.
 
 All completed work should be pushed to a public repo on GitHub.
