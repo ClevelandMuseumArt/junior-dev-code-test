@@ -7,16 +7,17 @@ A 5-table SQLite database has been provided. The database contains a table of 10
 Using python, write a script that generates two separate json files that match the following criteria:
 
 - All artworks in the "Chinese Art" Department
-- All arworks that were accessed between the years 1940 and 1980. The first 4 numbers in the accession number for an artwork denotes the year in which the artwork was accessed into the Museum.
+- All arworks that were accessioned between the years 1940 and 1980. The first 4 numbers in the accession number for an artwork denotes the year in which the artwork was accessioned into the Museum.
 
 Your json artwork objects should have relevant information from the creators and departments table. Use the relationship tables for this.
 
 ## Completion and Submission
 
 Completed work should include all code to arrive at the solution, plus all code, assets, and resources required to run the solution.
-Please describe your approach to this problem in a few sentences. Were there any alternatives that you considered?
 
 PLEASE INCLUDE a detailed README containing requirements and instructions for running the project locally.
+
+Please DESCRIBE your approach to this problem in a few sentences. Were there any alternatives that you considered?
 
 Please INCLUDE a requirements file with all the dependcies required to run the code to generate the json files.
 
